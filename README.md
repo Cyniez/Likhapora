@@ -1,4 +1,4 @@
-# <span style="font-family: 'Courier New', monospace; color: #4A90E2;">Likhapora</span>
+ <span style="font-family: 'Courier New', monospace; color: #4A90E2;">Likhapora</span>
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue)
