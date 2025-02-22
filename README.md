@@ -23,8 +23,7 @@
 
 ### <span style="font-family: 'Arial', sans-serif; color: #E94E77;">Installation</span>
 
-1. **Sign Up**: Visit <a href="https://likhapora.com" style="color: #4A90E2;">Likhapora</a> and create a free account.
-2. **Explore**: Once registered, explore the platform and start connecting with other students.
+1. **Explore**: Once registered, explore the platform and start connecting with other students.
 
 ### <span style="font-family: 'Arial', sans-serif; color: #E94E77;">Usage</span>
 
@@ -43,7 +42,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## <span style="font-family: 'Arial', sans-serif; color: #E94E77;">Contact</span>
 
-For any inquiries or feedback, please reach out to us at <a href="mailto:support@likhapora.com" style="color: #4A90E2;">support@likhapora.com</a>.
+
 
 ---
 
